@@ -38,5 +38,3 @@ function countdown(date1, date2) {
     }
   }, 1000);
 }
-
-countdown(new Date(), "2023-12-31 23:59:59");
